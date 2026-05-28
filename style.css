@@ -211,30 +211,6 @@ html,body{
   );
 }
 
-/* CONTENT */
-.slide-content{
-  position:absolute;
-  top:50%;
-  left:80px;
-  transform:translateY(-50%);
-  z-index:2;
-  color:#fff;
-  max-width:650px;
-}
-
-.slide-content h2{
-  font-size:72px;
-  line-height:1.1;
-  margin-bottom:20px;
-  font-weight:700;
-}
-
-.slide-content p{
-  font-size:20px;
-  line-height:1.7;
-  color:#e5e5e5;
-  max-width:600px;
-}
 
 /* BUTTONS */
 .slider-buttons{
