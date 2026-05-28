@@ -34,11 +34,12 @@ body{
     z-index:10;
 }
 
-.logo{
+.logo a{
     color:white;
     font-size:32px;
     font-weight:bold;
     letter-spacing:2px;
+    text-decoration: none;
     cursor: pointer;
 }
 
