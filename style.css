@@ -274,3 +274,7 @@ html,body{
   justify-content: center;
   align-items: center;
 }
+
+.pricing-section p{
+  color: white;
+}
