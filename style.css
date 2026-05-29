@@ -264,3 +264,13 @@ html,body{
     height:50px;
   }
 }
+
+/* PRICING SECTION */
+
+.pricing-section {
+  min-height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
