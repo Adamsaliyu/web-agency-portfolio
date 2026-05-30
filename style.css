@@ -265,5 +265,20 @@ html,body{
   }
 }
 
+#second-section {
+  background-color: #ddd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 
+.main-container-first {
+  background-color: #fff;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
 
