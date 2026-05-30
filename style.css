@@ -282,3 +282,11 @@ html,body{
   gap: 20px;
 }
 
+.main-container-first h1{
+  font-size: 40px;
+  font-weight: 400;
+}
+.main-container-first p{
+  font-size: 18px;
+  font-weight: 100;
+}
