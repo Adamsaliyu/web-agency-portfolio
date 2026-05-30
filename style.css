@@ -265,36 +265,3 @@ html,body{
   }
 }
 
-/* PRICING SECTION */
-
-.pricing-section {
-  min-height: 75vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-color: rgb(210, 235, 235);
-}
-
-.pricing-section p{
-  color: rgb(7, 10, 10);
-  font-size: 60px;
-  margin-bottom: 20px;
-}
-
-.pricing-section button{
-    background:rgb(2, 2, 2);
-    color:rgb(255, 255, 255);
-    padding:15px 30px;
-    text-decoration:none;
-    font-size:14px;
-    font-weight:bold;
-    cursor: pointer;
-    border-radius:2px;
-    border: none;
-    transition:0.3s;
-}
-
-.pricing-section button:hover{
-    background:#242323;
-}
